@@ -13,8 +13,8 @@ retornará todas as casas inicialmente vazias.
 * A função jogar(jogador, linha, coluna) irá posicionar o **jogador**
 
 ## Verificação da validade das jogadas (v1.1)
-*Foram realizadas mudanças no módulo **jogovelha.py** 
-*A mudança consiste no acréscimo da string “X” e “O” na função jogar (jogador, linha, coluna).
-*Foram acrescentadas três strings “X” e duas “O”.
-*E de acordo com a regra do jogo da velha a string “X” ganha o jogo  
+* Foram realizadas mudanças no módulo **jogovelha.py** 
+* A mudança consiste no acréscimo da string “X” e “O” na função jogar (jogador, linha, coluna).
+* Foram acrescentadas três strings “X” e duas “O”.
+* E de acordo com a regra do jogo da velha a string “X” ganha o jogo  
 
